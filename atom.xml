@@ -3,11 +3,11 @@
   <title>Yocok</title>
   
   
-  <link href="https://github.com/yocok/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/yocok/"/>
-  <updated>2021-06-24T05:12:22.205Z</updated>
-  <id>https://github.com/yocok/</id>
+  <link href="http://example.com/"/>
+  <updated>2021-06-24T06:14:01.823Z</updated>
+  <id>http://example.com/</id>
   
   <author>
     <name>Yocok</name>
@@ -17,20 +17,52 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>主题需要三个文章，首页才不会出问题</title>
+    <link href="http://example.com/2021/06/24/01/"/>
+    <id>http://example.com/2021/06/24/01/</id>
+    <published>2021-06-24T06:13:13.508Z</published>
+    <updated>2021-06-24T06:14:01.823Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo</span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting</span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub</span>.</p><h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo new <span class="token string">"My New Post"</span></pre></td></tr></tbody></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing</span></p><h3 id="run-server"><a class="anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo server</pre></td></tr></tbody></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server</span></p><h3 id="generate-static-files"><a class="anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo generate</pre></td></tr></tbody></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating</span></p><h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></tbody></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment</span></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://github.com/yocok/post/3eeb.html"/>
-    <id>https://github.com/yocok/post/3eeb.html</id>
+    <link href="http://example.com/2021/06/24/hello-world/"/>
+    <id>http://example.com/2021/06/24/hello-world/</id>
     <published>2021-06-24T05:12:22.205Z</published>
-    <updated>2021-06-24T05:12:22.205Z</updated>
+    <updated>2021-06-24T05:33:46.286Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo new <span class="token string">"My New Post"</span></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo server</pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo generate</pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><figcaption data-lang="bash"><span>h</span></figcaption><table><tbody><tr><td data-num="1"></td><td><pre>$ hexo deploy</pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
       
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://example.com/2020/02/12/about/index/"/>
+    <id>http://example.com/2020/02/12/about/index/</id>
+    <published>2020-02-12T14:14:36.000Z</published>
+    <updated>2021-06-24T06:03:02.439Z</updated>
+    
     
     
     
