@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yocok</title>
+  
+  
+  <link href="https://github.com/yocok/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/yocok/"/>
+  <updated>2021-06-24T05:12:22.205Z</updated>
+  <id>https://github.com/yocok/</id>
+  
+  <author>
+    <name>Yocok</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/yocok/post/3eeb.html"/>
+    <id>https://github.com/yocok/post/3eeb.html</id>
+    <published>2021-06-24T05:12:22.205Z</published>
+    <updated>2021-06-24T05:12:22.205Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
